@@ -1,5 +1,26 @@
 # Design Patterns
 
+## 1) Solid Principle
+
+The SOLID principles are a set of design principles for object-oriented programming that aim to make code more maintainable, flexible, and reusable
+
+### i) Single Responsibility Principle (SRP)
+A class should have only one reason to change.
+
+### ii) Open-Closed Principle (OCP)
+Classes should be open for extension but closed for modification
+
+### iii) SLiskov Substitution Principle (LSP)
+Objects of a derived class should be substitutable for objects of the base class.
+
+### iv) Interface Segregation Principle (ISP)
+Clients should not be forced to depend on interfaces they do not use.
+
+### v) Dependency Inversion Principle
+Depend on abstractions, not concretions.
+
+# Design Patterns Category
+
 Explore this Java repository to understand and implement Creational, Structural, and Behavioral design patterns. Enhance your coding practices and build scalable, maintainable software using these proven principles.
 
 ## 1) Creational Design Patterns
