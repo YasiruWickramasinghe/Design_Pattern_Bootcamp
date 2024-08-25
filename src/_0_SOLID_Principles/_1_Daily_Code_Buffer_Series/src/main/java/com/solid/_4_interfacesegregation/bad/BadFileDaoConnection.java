@@ -1,4 +1,4 @@
-package com.solid.interfacesegregation;
+package _0_SOLID_Principles._1_Daily_Code_Buffer_Series.src.main.java.com.solid._4_interfacesegregation.bad;
 
 public class BadFileDaoConnection implements BadDAOInterface{
     @Override

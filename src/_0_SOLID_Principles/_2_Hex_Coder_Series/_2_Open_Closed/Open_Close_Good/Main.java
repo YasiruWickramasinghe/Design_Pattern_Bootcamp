@@ -1,4 +1,4 @@
-package _0_SOLID_Principles._2_Open_Closed.Open_Close_Good;
+package _0_SOLID_Principles._2_Hex_Coder_Series._2_Open_Closed.Open_Close_Good;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

@@ -1,4 +1,4 @@
-package _0_SOLID_Principles._3_Liskov_Subtitution.Liskov_Subtitution_Good;
+package _0_SOLID_Principles._2_Hex_Coder_Series._3_Liskov_Subtitution.Liskov_Subtitution_Good;
 
 import java.util.List;
 import java.util.ArrayList;

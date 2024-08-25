@@ -1,4 +1,4 @@
-package _0_SOLID_Principles._1_Single_Resposibility.Single_Responsibility_Bad;
+package _0_SOLID_Principles._2_Hex_Coder_Series._1_Single_Resposibility.Single_Responsibility_Bad;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

@@ -1,4 +1,4 @@
-package _0_SOLID_Principles._5_Dependency_Inversion.Dependency_Inversion_Good;
+package _0_SOLID_Principles._2_Hex_Coder_Series._5_Dependency_Inversion.Dependency_Inversion_Good;
 
 import java.util.Scanner;
 

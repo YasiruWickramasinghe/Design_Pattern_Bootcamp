@@ -1,4 +1,4 @@
-package _0_SOLID_Principles._4_Interface_Segregation.Interface_Segregation_Good;
+package _0_SOLID_Principles._2_Hex_Coder_Series._4_Interface_Segregation.Interface_Segregation_Good;
 
 interface Vehicle {
     void move();

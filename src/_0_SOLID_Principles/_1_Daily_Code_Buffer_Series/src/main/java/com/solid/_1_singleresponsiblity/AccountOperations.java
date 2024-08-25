@@ -1,4 +1,4 @@
-package _0_SOLID_Principles._1_Daily_Code_Buffer_Series.src.main.java.com.solid.singleresponsiblity;
+package _0_SOLID_Principles._1_Daily_Code_Buffer_Series.src.main.java.com.solid._1_singleresponsiblity;
 
 import java.util.HashMap;
 import java.util.Map;

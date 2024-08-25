@@ -1,4 +1,4 @@
-package _0_SOLID_Principles._1_Daily_Code_Buffer_Series.src.main.java.com.solid.openclosed;
+package _0_SOLID_Principles._1_Daily_Code_Buffer_Series.src.main.java.com.solid._2_openclosed;
 
 public class AddOperation implements Operation{
     @Override
