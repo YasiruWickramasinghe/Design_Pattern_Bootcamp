@@ -1,4 +1,4 @@
-package com.solid.liskov.bad;
+package _0_SOLID_Principles._1_Daily_Code_Buffer.src.main.java.com.solid._3_liskov.bad;
 
 public class HomeLoan implements LoanPayment{
     @Override

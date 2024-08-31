@@ -1,4 +1,4 @@
-package com.solid.dependencyinversion.bad;
+package _0_SOLID_Principles._1_Daily_Code_Buffer.src.main.java.com.solid._5_dependencyinversion.bad;
 
 /**
  * Parent module or main module of calculator which help to calculate

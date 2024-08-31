@@ -1,4 +1,4 @@
-package com.solid.dependencyinversion.bad;
+package _0_SOLID_Principles._1_Daily_Code_Buffer.src.main.java.com.solid._5_dependencyinversion.bad;
 
 /**
  * Lets take similar example which we have in Open Closed.

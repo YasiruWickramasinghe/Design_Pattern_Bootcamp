@@ -1,4 +1,4 @@
-package com.solid.dependencyinversion.good;
+package _0_SOLID_Principles._1_Daily_Code_Buffer.src.main.java.com.solid._5_dependencyinversion.good;
 
 /**
  * So we will have this class but it will be taken care
