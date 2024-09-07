@@ -1,12 +1,9 @@
-package com.dailycodebuffer.strategy;
-
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+package _3_Behavioral_Design_Patterns._10_Strategy_Pattern.Pattern_Code;
 
 /*
  *  References: https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm
  *              https://refactoring.guru/design-patterns/strategy
  */
-@SpringBootApplication
 public class StrategyApplication {
 
     public static void main(String[] args) {

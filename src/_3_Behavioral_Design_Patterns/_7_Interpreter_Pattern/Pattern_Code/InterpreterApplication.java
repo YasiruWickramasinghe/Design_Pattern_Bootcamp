@@ -1,4 +1,4 @@
-package com.dailycodebuffer.interpreter;
+package _3_Behavioral_Design_Patterns._7_Interpreter_Pattern.Pattern_Code;
 
 /*
     References: https://www.tutorialspoint.com/design_pattern/interpreter_pattern.htm

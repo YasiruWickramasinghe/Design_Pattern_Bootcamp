@@ -1,4 +1,4 @@
-package com.dailycodebuffer.strategy;
+package _3_Behavioral_Design_Patterns._10_Strategy_Pattern.Pattern_Code;
 
 public class OperationSubtract implements Strategy{
     @Override

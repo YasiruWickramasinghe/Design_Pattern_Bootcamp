@@ -1,13 +1,11 @@
-package com.dailycodebuffer.state;
-
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+package _3_Behavioral_Design_Patterns._8_State_Pattern.Pattern_Code;
 
 /*
     References: https://www.tutorialspoint.com/design_pattern/state_pattern.htm
                 https://refactoring.guru/design-patterns/state
  */
 
-@SpringBootApplication
+
 public class StateApplication {
 
     public static void main(String[] args) {

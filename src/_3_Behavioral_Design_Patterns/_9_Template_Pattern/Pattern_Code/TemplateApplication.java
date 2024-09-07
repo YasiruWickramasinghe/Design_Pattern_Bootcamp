@@ -1,14 +1,9 @@
-package com.dailycodebuffer.template;
-
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+package _3_Behavioral_Design_Patterns._9_Template_Pattern.Pattern_Code;
 
 /*
  *  References: https://refactoring.guru/design-patterns/template-method
  *              https://www.tutorialspoint.com/design_pattern/template_pattern.htm
  */
-
-
-@SpringBootApplication
 public class TemplateApplication {
 
     public static void main(String[] args) {
