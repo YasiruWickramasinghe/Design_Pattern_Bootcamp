@@ -16,6 +16,8 @@ Imagine a scenario in a bakery where different types of cakes are made using a F
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_1_Creational_Design_Patterns/_2_Factory_Method_Pattern/Diagram/Factory.png)
+
 ## Pseudocode
 ```code
 // The creator class declares the factory method that must

@@ -17,6 +17,8 @@ Imagine a home theater system with multiple components: a DVD player, projector,
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_2_Structural_Design_Patterns/_4_Facade_Pattern/Diagram/facade.png)
+
 ## Pseudocode
 ```code
 // These are some of the classes of a complex 3rd-party video

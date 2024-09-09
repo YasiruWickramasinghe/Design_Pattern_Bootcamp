@@ -19,6 +19,8 @@ In a real-world scenario, consider a security guard at a gated community. The se
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_2_Structural_Design_Patterns/_5_Proxy_Pattern/Diagram/Proxy.png)
+
 ## Pseudocode
 ```code
 // The interface of a remote service.

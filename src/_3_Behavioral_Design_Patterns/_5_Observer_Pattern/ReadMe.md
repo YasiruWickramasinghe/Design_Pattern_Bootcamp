@@ -16,6 +16,8 @@ In a real-world example, consider a news agency system where the agency (subject
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_3_Behavioral_Design_Patterns/_5_Observer_Pattern/Diagram/Observer.png)
+
 ## Pseudocode
 ```code
 // The base publisher class includes subscription management

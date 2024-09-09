@@ -14,6 +14,9 @@ In a real-world example, consider a company with a complex organizational struct
 * You want clients to be able to ignore the difference between compositions of objects and individual objects. Clients will treat all objects in the composite structure uniformly
 
 ## Structure
+
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_2_Structural_Design_Patterns/_6_Composite_Pattern/Diagram/Composite.png)
+
 ## Pseudocode
 ## How to Implement
 

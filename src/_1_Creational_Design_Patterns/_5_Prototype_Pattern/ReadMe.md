@@ -20,6 +20,8 @@ In this scenario, the furniture prototypes act like object prototypes in softwar
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_1_Creational_Design_Patterns/_5_Prototype_Pattern/Diagram/Prototype.png)
+
 ## Pseudocode
 ```code
 // Base prototype.

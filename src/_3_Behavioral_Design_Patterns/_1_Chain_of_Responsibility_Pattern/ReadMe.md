@@ -16,6 +16,8 @@ A real-world example of the Chain of Responsibility pattern in Java is a technic
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_3_Behavioral_Design_Patterns/_1_Chain_of_Responsibility_Pattern/Diagram/Chain_of_Responsibility.png)
+
 ## Pseudocode
 ```code
 // The handler interface declares a method for executing a

@@ -17,6 +17,8 @@ Consider that you have some pictures on your memory card and you need to transfe
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_2_Structural_Design_Patterns/_1_Adapter_Pattern/Diagram/Adapter.png)
+
 ## Pseudocode
 ```code
 // Say you have two classes with compatible interfaces:

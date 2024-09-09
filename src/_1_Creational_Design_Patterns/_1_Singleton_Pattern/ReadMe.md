@@ -14,6 +14,7 @@ A real-world analogy for the Singleton pattern is a government issuing a passpor
 * When the sole instance should be extensible by subclassing, and clients should be able to use an extended instance without modifying their code
 
 ## Structure
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_1_Creational_Design_Patterns/_1_Singleton_Pattern/Diagram/Singleton.png)
 
 ## Pseudocode
 ```code

@@ -17,6 +17,8 @@ A practical real-world example of the Strategy design pattern in Java is evident
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_3_Behavioral_Design_Patterns/_10_Strategy_Pattern/Diagram/Stratergy.png)
+
 ## Pseudocode
 ```code
 // The strategy interface declares operations common to all

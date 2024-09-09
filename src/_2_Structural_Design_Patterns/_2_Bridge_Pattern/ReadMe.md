@@ -20,6 +20,8 @@ Imagine a universal remote control (abstraction) that can operate different bran
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_2_Structural_Design_Patterns/_2_Bridge_Pattern/Diagram/Bridge.png)
+
 ## Pseudocode
 ```code
 // The "abstraction" defines the interface for the "control"

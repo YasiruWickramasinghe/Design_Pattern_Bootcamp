@@ -18,6 +18,8 @@ A real-world application of the Flyweight pattern in Java can be seen in text ed
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_3_Behavioral_Design_Patterns/_6_Flyweight_Pattern/Diagram/FlyWeight.png)
+
 ## Pseudocode
 ```code
 // The flyweight class contains a portion of the state of a

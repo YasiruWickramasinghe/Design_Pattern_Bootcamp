@@ -16,6 +16,8 @@ A real-world analogy for the Template Method pattern can be seen in the preparat
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_3_Behavioral_Design_Patterns/_9_Template_Method_Pattern/Diagram/Template_Method.png)
+
 ## Pseudocode
 ```code
 // The abstract class defines a template method that contains a

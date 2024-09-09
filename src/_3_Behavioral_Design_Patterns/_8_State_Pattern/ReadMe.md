@@ -21,6 +21,8 @@ In this scenario, the traffic light uses the State design pattern. Each state (G
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_3_Behavioral_Design_Patterns/_8_State_Pattern/Diagram/State.png)
+
 ## Pseudocode
 ```code
 // The AudioPlayer class acts as a context. It also maintains a

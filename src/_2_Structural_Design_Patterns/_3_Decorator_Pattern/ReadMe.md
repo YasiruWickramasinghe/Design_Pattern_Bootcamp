@@ -17,6 +17,8 @@ Imagine a coffee shop where you can customize your coffee order. You start with 
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_2_Structural_Design_Patterns/_3_Decorator_Pattern/Diagram/Decorator.png)
+
 ## Pseudocode
 ```code
 // The component interface defines operations that can be

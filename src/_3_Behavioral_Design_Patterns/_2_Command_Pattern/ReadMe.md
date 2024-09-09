@@ -21,6 +21,8 @@ Imagine a smart home system where you can control devices such as lights, thermo
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_3_Behavioral_Design_Patterns/_2_Command_Pattern/Diagram/Command.png)
+
 ## Pseudocode
 ```code
     // The base command class defines the common interface for all

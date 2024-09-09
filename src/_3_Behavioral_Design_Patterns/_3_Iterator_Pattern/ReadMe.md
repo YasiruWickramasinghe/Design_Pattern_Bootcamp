@@ -16,6 +16,8 @@ Imagine visiting a library with a vast collection of books organized in differen
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_3_Behavioral_Design_Patterns/_3_Iterator_Pattern/Diagram/Iterator.png)
+
 ## Pseudocode
 ```code
 // The collection interface must declare a factory method for

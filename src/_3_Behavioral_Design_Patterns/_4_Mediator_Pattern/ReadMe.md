@@ -16,6 +16,8 @@ Imagine an air traffic control system at a busy airport, where the air traffic c
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_3_Behavioral_Design_Patterns/_4_Mediator_Pattern/Diagram/Mediator.png)
+
 ## Pseudocode
 ```code
 // The mediator interface declares a method used by components

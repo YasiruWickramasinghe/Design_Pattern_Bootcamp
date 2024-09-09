@@ -23,6 +23,8 @@ In this scenario, the Abstract Factory is an interface for creating families of 
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_1_Creational_Design_Patterns/_3_Abstract_Factory_Pattern/Diagram/Abstract_Factory.png)
+
 ## Pseudocode
 ```code
 // The abstract factory interface declares a set of methods that

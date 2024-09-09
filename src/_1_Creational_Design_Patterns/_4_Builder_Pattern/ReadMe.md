@@ -19,6 +19,8 @@ Imagine you are building a customizable sandwich at a deli. The Builder design p
 
 ## Structure
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_1_Creational_Design_Patterns/_4_Builder_Pattern/Diagram/Builder.png)
+
 ## Pseudocode
 ```code
 // Using the Builder pattern makes sense only when your products
