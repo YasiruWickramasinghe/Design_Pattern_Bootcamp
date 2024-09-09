@@ -54,7 +54,7 @@ Builder is a creational design pattern that lets you construct complex objects s
 Creates new objects by copying an existing object (a prototype) rather than creating from scratch.
 Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
 
-![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_1_Creational_Design_Patterns/_5_Prototype_Pattern/Diagram/Prototype.png
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_1_Creational_Design_Patterns/_5_Prototype_Pattern/Diagram/Prototype.png)
 
 ## 2) Structural Design Patterns
 
@@ -135,7 +135,7 @@ Flyweight is a structural design pattern that lets you fit more objects into the
 ### vii) Interpreter Pattern
 Defines a grammar and interprets sentences in that language.
 
-![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_3_Behavioral_Design_Patterns/_10_Interpreter_Pattern/Diagram/Interpriter.png)
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_3_Behavioral_Design_Patterns/_7_Interpreter_Pattern/Diagram/Interpriter.png)
 
 ### viii) State Pattern
 Changes an object’s behavior when its internal state changes.
@@ -158,6 +158,9 @@ Strategy is a behavioral design pattern that lets you define a family of algorit
 # Referencce
 
 https://refactoring.guru/ 
+https://java-design-patterns.com/principles/
+https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K
+https://www.youtube.com/watch?v=x2y_lsIdC6c
 
 
 
