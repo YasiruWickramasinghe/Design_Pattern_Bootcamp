@@ -157,10 +157,10 @@ Strategy is a behavioral design pattern that lets you define a family of algorit
 
 # Referencce
 
-https://refactoring.guru/ 
-https://java-design-patterns.com/principles/
-https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K
-https://www.youtube.com/watch?v=x2y_lsIdC6c
+* https://refactoring.guru/ 
+* https://java-design-patterns.com/principles/
+* https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K
+* https://www.youtube.com/watch?v=x2y_lsIdC6c
 
 
 
