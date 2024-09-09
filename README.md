@@ -29,6 +29,9 @@ Explore this Java repository to understand and implement Creational, Structural,
 Ensures a class has only one instance and provides a global access point to it.
 Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
 
+![Diagram](https://github.com/YasiruWickramasinghe/Design_Pattern_Bootcamp/blob/main/src/_1_Creational_Design_Patterns/_1_Singleton_Pattern/Diagram/Singleton.png)
+
+
 ### ii) Factory Method Pattern
 Defines an interface for creating objects, but lets subclasses decide which class to instantiate.
 Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
@@ -77,38 +80,38 @@ Composite is a structural design pattern that lets you compose objects into tree
 Passes a request along a chain of handlers until one handles it.
 Chain of Responsibility is a behavioral design pattern that lets you pass requests along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
 
-### i) Command Pattern
+### ii) Command Pattern
 Encapsulates a request as an object, allowing parameterization and queuing of requests.
 Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as a method arguments, delay or queue a request’s execution, and support undoable operations.
 
-### i) Iterator Pattern
+### iii) Iterator Pattern
 Provides a way to access elements of a collection sequentially without exposing its underlying structure
 Iterator is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).
 
-### i)Mediator Pattern
+### iv)Mediator Pattern
 Centralizes complex communication between objects, reducing their direct dependencies
 Mediator is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
 
-### i) Observer Pattern
+### v) Observer Pattern
 Notifies multiple objects (observers) about changes in the state of another object (subject).
 Observer is a behavioral design pattern that lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing.
 
-### i) Flyweight Pattern
+### vi) Flyweight Pattern
 Minimizes memory use by sharing common parts of objects instead of creating new ones for every instance
 Flyweight is a structural design pattern that lets you fit more objects into the available amount of RAM by sharing common parts of state between multiple objects instead of keeping all of the data in each object.
 
-### i) Interpreter Pattern
+### vii) Interpreter Pattern
 Defines a grammar and interprets sentences in that language.
 
-### i) State Pattern
+### viii) State Pattern
 Changes an object’s behavior when its internal state changes.
 State is a behavioral design pattern that lets an object alter its behavior when its internal state changes. It appears as if the object changed its class.
 
-### i) Template Method Pattern
+### ix) Template Method Pattern
 Defines the skeleton of an algorithm, allowing subclasses to override specific steps without changing the structure.
 Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
 
-### ii) Strategy Pattern
+### x) Strategy Pattern
 Defines a family of algorithms and lets clients choose which one to use.
 Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.
 
