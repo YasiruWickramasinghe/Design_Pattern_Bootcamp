@@ -1,4 +1,4 @@
-package _3_Behavioral_Design_Patterns._9_Template_Pattern.Pattern_Code;
+package _3_Behavioral_Design_Patterns._9_Template_Method_Pattern.Pattern_Code;
 
 /*
  *  References: https://refactoring.guru/design-patterns/template-method

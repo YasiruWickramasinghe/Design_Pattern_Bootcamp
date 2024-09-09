@@ -26,51 +26,91 @@ Explore this Java repository to understand and implement Creational, Structural,
 ## 1) Creational Design Patterns
 
 ### i) Singleton Pattern
-Implementing Global Access Points in Java Applications
+Ensures a class has only one instance and provides a global access point to it.
+Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
 
 ### ii) Factory Method Pattern
-Streamlining Object Creation
-Defines an interface for creating an object but leaves the choice of its type to the subclasses.
+Defines an interface for creating objects, but lets subclasses decide which class to instantiate.
+Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
 
 ### iii) Abstract Factory Pattern
-Mastering Object Creation Elegantly
-Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+Provides an interface to create families of related objects without specifying their concrete classes.
+Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.
 
 ### iv) Builder Pattern
-Crafting Custom Objects with Clarity
 Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
+Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
 
 ### v) Prototype Pattern
-Mastering Object Cloning for Efficient Instantiation
-Creates new objects by copying an existing object, known as the prototype.
+Creates new objects by copying an existing object (a prototype) rather than creating from scratch.
+Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
 
 ## 2) Structural Design Patterns
 
 ### i) Adapter Pattern
-Seamless Integration of Incompatible Systems
-Allows the interface of an existing class to be used as another interface.
+Converts one interface into another that a client expects, making incompatible systems work together.
+Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
 
-### ii) Decorator Pattern
-Extending Classes Dynamically
-Attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+### ii) Bridge Pattern
+Separates an object’s abstraction from its implementation so they can vary independently.
+Bridge is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
 
-### iii) Composite Pattern
-Building Flexible Tree Structures
-Composes objects into tree structures to represent part-whole hierarchies. Clients can treat individual objects and compositions of objects uniformly.
+### iii) Decorator Pattern
+Adds behavior or responsibilities to an object dynamically without altering its structure.
+Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
+
+### iv) Facade Pattern
+Provides a simplified interface to a complex subsystem or set of classes.
+Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
+
+### v) proxy Pattern
+Acts as a placeholder or intermediary, controlling access to another object.
+Proxy is a structural design pattern that lets you provide a substitute or placeholder for another object. A proxy controls access to the original object, allowing you to perform something either before or after the request gets through to the original object.
+
+### vi) Composite Pattern
+Treats individual objects and compositions of objects uniformly, allowing a tree-like structure to represent part-whole hierarchies.
+Composite is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.
 
 ## 3) Behavioral Design Patterns
 
+### i) Chain of Responsibility Pattern
+Passes a request along a chain of handlers until one handles it.
+Chain of Responsibility is a behavioral design pattern that lets you pass requests along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
+
+### i) Command Pattern
+Encapsulates a request as an object, allowing parameterization and queuing of requests.
+Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as a method arguments, delay or queue a request’s execution, and support undoable operations.
+
+### i) Iterator Pattern
+Provides a way to access elements of a collection sequentially without exposing its underlying structure
+Iterator is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).
+
+### i)Mediator Pattern
+Centralizes complex communication between objects, reducing their direct dependencies
+Mediator is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
+
 ### i) Observer Pattern
-Mastering Reactive Interfaces in Java Applications
-Defines a one-to-many dependency between objects, so that when one object changes state, all its dependents are notified and updated automatically.
+Notifies multiple objects (observers) about changes in the state of another object (subject).
+Observer is a behavioral design pattern that lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing.
+
+### i) Flyweight Pattern
+Minimizes memory use by sharing common parts of objects instead of creating new ones for every instance
+Flyweight is a structural design pattern that lets you fit more objects into the available amount of RAM by sharing common parts of state between multiple objects instead of keeping all of the data in each object.
+
+### i) Interpreter Pattern
+Defines a grammar and interprets sentences in that language.
+
+### i) State Pattern
+Changes an object’s behavior when its internal state changes.
+State is a behavioral design pattern that lets an object alter its behavior when its internal state changes. It appears as if the object changed its class.
+
+### i) Template Method Pattern
+Defines the skeleton of an algorithm, allowing subclasses to override specific steps without changing the structure.
+Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
 
 ### ii) Strategy Pattern
-Streamlining Object Behaviors with Interchangeable Algorithms
-Defines a family of algorithms, encapsulates each algorithm, and makes them interchangeable. Clients can choose the appropriate algorithm at runtime.
-
-### iii) Command Pattern
-Empowering Flexible Command Execution
-
+Defines a family of algorithms and lets clients choose which one to use.
+Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.
 
 # Referencce
 

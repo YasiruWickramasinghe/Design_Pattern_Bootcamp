@@ -15,4 +15,13 @@ Use the Interpreter design pattern when there is a language to interpret, and yo
 * The grammar is simple. For complex grammars, the class hierarchy for the grammar becomes large and unmanageable. Tools such as parser generators are a better alternative in such cases. They can interpret expressions without building abstract syntax trees, which can save space and possibly time.
 * Efficiency is not a critical concern. The most efficient interpreters are usually not implemented by interpreting parse trees directly but by first translating them into another form. For example, regular expressions are often transformed into state machines. But even then, the translator can be implemented by the Interpreter pattern, so the pattern is still applicable
 
+## Structure
+
+## Pseudocode
+
+## How to Implement
+
+
+
 Resource - h t t p s : / / j a v a - d e s i g n - p a t t e r n s . c o m /
+         - h t t p s : / / r e f a c t o r i n g . g u r u /  

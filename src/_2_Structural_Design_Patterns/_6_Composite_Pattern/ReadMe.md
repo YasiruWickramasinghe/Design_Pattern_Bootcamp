@@ -13,4 +13,10 @@ In a real-world example, consider a company with a complex organizational struct
 * You want to represent part-whole hierarchies of objects.
 * You want clients to be able to ignore the difference between compositions of objects and individual objects. Clients will treat all objects in the composite structure uniformly
 
+## Structure
+## Pseudocode
+## How to Implement
+
+
 Resource - h t t p s : / / j a v a - d e s i g n - p a t t e r n s . c o m /
+         - h t t p s : / / r e f a c t o r i n g . g u r u /  
